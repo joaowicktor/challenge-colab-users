@@ -47,7 +47,7 @@ Now, just run the api
 ### Running Client
 
 ```bash
-  # Access the API directory
+  # Access the client directory
   $ cd client
 
   # Install dependencies
